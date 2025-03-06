@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project aims to analyze Walmart's sales data to extract actionable business insights using Python, SQL, and Power BI, following an end-to-end data pipeline.
 
 ## Project Overview
@@ -131,3 +132,7 @@ This project is licensed under the MIT License.
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
 
 ---
+=======
+# Walmart-Sales-Insights-Data-pipeline
+This project develops an end-to-end data pipeline to analyze Walmart sales data, implementing ETL processes using MySQL databases. Data processing is handled using Python, with SQL queries applied for in depth business analysis. Key insights are presented through an interactive Power BI report, showcasing a complete data analytics solution.
+>>>>>>> 025435bf6a698c3d8c338202b0b45ba329f2fb67
