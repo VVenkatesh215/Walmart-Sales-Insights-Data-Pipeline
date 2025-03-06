@@ -1,0 +1,7 @@
+# Python packages required for this project.
+pandas
+pymysql
+sqlalchemy
+numpy
+mysql-connector-python
+
